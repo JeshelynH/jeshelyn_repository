@@ -2,3 +2,4 @@ jeshelyn_repository
 - menyelesaikan magang
 - fokus kerja
 - meningkatkan softskill
+- ini percobaan 2
